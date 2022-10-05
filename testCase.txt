@@ -1,0 +1,7 @@
+mười hai chín bốn => 10 2 94 ? 1294
+hai sáu tháng mười một năm chín mốt => 26/11/1991 ? 26 tháng 10 1591
+hai không lẻ mười => 2010 ? 20 lẻ 10
+hai mốt tháng mười hai hai không ba mươi => 21/12/2030 ? 21/10 220 30
+ngày không sáu tháng sáu hai không mười sáu => 06/06/2016 ? ngày không 6 tháng 6 hai không 16
+mười ba tháng bảy hai lẻ hai => 13 tháng 7 hai 2 ? 13/7/2002
+hai mươi mốt triệu chín trăm chín mươi => 21000990 ? 21990000
